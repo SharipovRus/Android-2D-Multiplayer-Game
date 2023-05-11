@@ -27,20 +27,21 @@ Android-2D-Multiplayer-Game made in Unity
 
 ## Screenshots
 - Create name menu
-![Без имени](https://github.com/SharipovRus/2D-Android-Multiplayer-Game/assets/106979924/9eecc5d6-72cd-422d-b303-4e4dc98fe7fd)
+![Без имени](https://github.com/SharipovRus/Android-2D-Multiplayer-Game/assets/106979924/15dcb36a-1a54-485a-94f5-fe23547b8e0a)
 
 - Room menu (can create room or join one)
-![Room](https://github.com/SharipovRus/2D-Android-Multiplayer-Game/assets/106979924/e4c6e4db-ff9e-4065-9f24-eb43f88fdbc5)
+![Room](https://github.com/SharipovRus/Android-2D-Multiplayer-Game/assets/106979924/839376ac-fd6c-4aab-a36c-7e42184cb85b)
 
 - Spawn Button
-![Spawn](https://github.com/SharipovRus/2D-Android-Multiplayer-Game/assets/106979924/1d5f0682-c072-480e-a77e-5455648ea95f)
+![Spawn](https://github.com/SharipovRus/Android-2D-Multiplayer-Game/assets/106979924/649e7282-e7d2-4cf7-95fb-00e71f49d26c)
 
 - Arena with 2 players
-![Lob](https://github.com/SharipovRus/2D-Android-Multiplayer-Game/assets/106979924/1339ebc8-6b2d-48f5-8849-ea8414c98507)
+![Lob](https://github.com/SharipovRus/Android-2D-Multiplayer-Game/assets/106979924/08d6eafb-f875-4988-8f69-cba70f218678)
 
 - Hit effect
-![Hit](https://github.com/SharipovRus/2D-Android-Multiplayer-Game/assets/106979924/bfe0454c-e0e6-4df7-968a-400868085c70)
+![Hit](https://github.com/SharipovRus/Android-2D-Multiplayer-Game/assets/106979924/748b61db-5c82-4e16-8450-360247dad1c6)
+
 
 - Respawn screen 
-![Respawn](https://github.com/SharipovRus/2D-Android-Multiplayer-Game/assets/106979924/32cf9a54-d945-40d8-9e38-aa437e427d7f)
+![Respawn](https://github.com/SharipovRus/Android-2D-Multiplayer-Game/assets/106979924/c98ecc9f-22e9-4f11-8ec8-4017105d1dc5)
 
